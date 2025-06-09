@@ -1,3 +1,8 @@
+
+[![NuGet Version](https://img.shields.io/nuget/v/RMQPooling?logo=nuget)](https://www.nuget.org/packages/RMQPooling)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/RMQPooling?logo=nuget)](https://www.nuget.org/packages/RMQPooling)
+[![No License](https://img.shields.io/badge/license-No%20license-lightgrey.svg)](https://choosealicense.com/no-permission/)
+
 # RMQPooling – RabbitMQ Connection & Channel Pooling for .NET
 
 RMQPooling is a .NET library that provides efficient RabbitMQ connection and channel pooling. It helps developers follow RabbitMQ best practices by reusing connections and channels, improving performance, preventing socket exhaustion, and simplifying multi-tenant or high-load scenarios. Modern .NET applications (microservices, web APIs, background workers, etc.) can use RMQPooling to manage RabbitMQ connections with confidence and ease.
